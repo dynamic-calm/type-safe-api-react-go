@@ -1,0 +1,14 @@
+This repository contains the code for the blog post:
+
+https://www.mateo.id/blog/grpc-go-react
+
+Requirements:
+
+- Node.js
+- Go
+- protoc compiler
+
+Quick start:
+
+1. Start backend: cd backend && go mod tidy && go run main.go
+2. Start frontend: cd frontend && npm i && npm npm run dev
